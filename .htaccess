@@ -1,0 +1,4 @@
+ErrorDocument 404 /404.html
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^/not-available.html$ [NC]
+RewriteRule ^(.*)$ /not-available.html [R=302,L]
