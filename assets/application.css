@@ -1,0 +1,163 @@
+/* Global Bar */
+.global {
+  border-top: 10px solid #6C585F;
+  border-bottom: 1px solid white;
+  background-color: #f1b50f;
+}
+.global-bar-message {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 20px 0;
+}
+.gem-c-action-link--light-text {
+    color: #fff;
+}
+.gem-c-action-link--with-subtext {
+    max-width: none;
+}
+@media (max-width: 40.0525em) {
+.gem-c-action-link {
+    max-width: 410px;
+}
+}
+.gem-c-action-link {
+    display: table;
+}
+.gem-c-action-link__contents-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+}
+.gem-c-action-link--with-subtext .gem-c-action-link__link-wrapper, .gem-c-action-link--with-subtext .gem-c-action-link__subtext-wrapper {
+    display: block;
+}
+.gem-c-action-link__link-wrapper {
+    font-family: "Interstate",arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.3;
+    display: table-cell;
+    vertical-align: middle;
+}
+.gem-c-action-link--light-text .gem-c-action-link__link:link, .gem-c-action-link--light-text .gem-c-action-link__link:visited, .gem-c-action-link--light-text .gem-c-action-link__subtext-link:link, .gem-c-action-link--light-text .gem-c-action-link__subtext-link:visited {
+    color: #fff;
+}
+.gem-c-action-link--light-text .gem-c-action-link__link, .gem-c-action-link--light-text .gem-c-action-link__subtext-link {
+    text-decoration: underline;
+}
+.gem-c-action-link--with-subtext .gem-c-action-link__link-wrapper, .gem-c-action-link--with-subtext .gem-c-action-link__subtext-wrapper {
+    display: block;
+}
+.gem-c-action-link__subtext {
+    font-family: "Interstate",arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    display: block;
+    font-weight: normal;
+    color: inherit;
+}
+
+/* Guidance and HTML Documents */
+.gem-c-inverse-header--padding-top {
+    padding-top: 15px;
+}
+.gem-c-inverse-header {
+    width: 100%;
+    background-color: #6c585f;
+    color: #fff;
+    margin-bottom: 30px;
+    padding: 30px 30px 30px;
+    box-sizing: border-box;
+}
+.gem-c-title--inverse .gem-c-title__text, .gem-c-title--inverse .gem-c-title__context  {
+    color: inherit;
+}
+@media (min-width: 40.0625em) {
+.html-publication .publication-header__last-changed {
+    font-size: 19px;
+    line-height: 1.3157894737;
+}
+}
+.html-publication .publication-header__last-changed {
+    font-family: "Interstate",arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.25;
+    margin-top: 15px;
+}
+.gem-c-title__text {
+  font-family: "Interstate", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 700;
+    font-size: 32px;
+    font-size: 2rem;
+    line-height: 1.09375;
+    display: block;
+    margin-top: 2px;
+}
+
+@media (min-width: 40.0625em) {
+.gem-c-title__text {
+    font-size: 48px;
+    font-size: 3rem;
+    line-height: 1.04167;
+}
+}
+.contents {
+  margin-bottom: 20px;
+  list-style-type: "-  ";
+  font-family: "Interstate", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.white {
+  color: white !important;
+}
+/* Special List*/
+.tsc-list--arrow {
+  background: url(assets/arrow.svg) no-repeat left top;
+  padding-left: 30px;
+}
+.tsc-list--whitearrow {
+  background: url(assets/white-arrow.png) no-repeat left top;
+  padding-left: 30px;
+}
+/*COVID special*/
+.covid-warn-side {
+  margin-bottom: 40px;
+  background-color: #272828;
+  padding: 30px 25px;
+  border-left: solid #fff500;
+  border-width: 0 0 0 10px;
+  border-image: repeating-linear-gradient(25deg, transparent 0, #fff500 1px, #fff500 10px, transparent 11px, transparent 20px) 25;
+
+}
+/*Video Content*/
+.tsc-video {
+  position: relative;
+      height: 0;
+      overflow: hidden;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      padding-top: 0;
+      padding-left: 0;
+      padding-right: 0;
+      padding-bottom: 56.25%;
+  }
+.tsc-video iframe {
+  position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
