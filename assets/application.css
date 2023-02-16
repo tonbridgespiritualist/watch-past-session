@@ -1041,13 +1041,13 @@ padding-bottom: 20px;
 
 .tsc-main-wrapper--auto-spacing:first-child,
 .tsc-main-wrapper--l {
-  padding-top: 30px;
+  padding-top: 5px;
 }
 
 @media (min-width: 40.0625em) {
   .tsc-main-wrapper--auto-spacing:first-child,
   .tsc-main-wrapper--l {
-    padding-top: 50px;
+    padding-top: 20px;
   }
 }
 
