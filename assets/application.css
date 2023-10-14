@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700&display=swap');
 
 .tsc-link, .app-step-nav-header__title, .app-step-nav-related__link {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -21,7 +21,7 @@
 }
 .gem-start-label {
     color: #0b0c0c;
-    font-family: "Noto Sans", Arial, sans-serif;
+    font-family: "Public Sans", Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-weight: 400;
@@ -120,7 +120,7 @@
 }
 
 .tsc-list {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -228,7 +228,7 @@
 
 .tsc-heading-xl {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -275,7 +275,7 @@
 
 .tsc-heading-l {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -322,7 +322,7 @@
 
 .tsc-heading-m {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -369,7 +369,7 @@
 
 .tsc-heading-s {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -415,7 +415,7 @@
 }
 
 .tsc-caption-xl {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -450,7 +450,7 @@
 }
 
 .tsc-caption-l {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -491,7 +491,7 @@
 }
 
 .tsc-caption-m {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -526,7 +526,7 @@
 
 .tsc-body-l, .tsc-body-lead {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -572,7 +572,7 @@
 
 .tsc-body-m, .tsc-body, p {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -618,7 +618,7 @@
 
 .tsc-body-s {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -664,7 +664,7 @@
 
 .tsc-body-xs {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1110,7 +1110,7 @@ padding-bottom: 20px;
 }
 
 .tsc-accordion__section-heading {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1143,7 +1143,7 @@ padding-bottom: 20px;
 }
 
 .tsc-accordion__section-button {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -1216,7 +1216,7 @@ padding-bottom: 20px;
 }
 
 .js-enabled .tsc-accordion__open-all {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1232,7 +1232,7 @@ padding-bottom: 20px;
   background: none;
   cursor: pointer;
   -webkit-appearance: none;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -1313,7 +1313,7 @@ padding-bottom: 20px;
 }
 
 .js-enabled .tsc-accordion__section-button {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   margin-top: 0;
@@ -1412,7 +1412,7 @@ padding-bottom: 20px;
   font-size: 14px;
   font-size: 0.875rem;
   line-height: 1.14286;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   display: inline-block;
@@ -1501,7 +1501,7 @@ padding-bottom: 20px;
 }
 
 .tsc-breadcrumbs {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1590,7 +1590,7 @@ padding-bottom: 20px;
 }
 
 .tsc-breadcrumbs__link {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -1638,7 +1638,7 @@ padding-bottom: 20px;
 }
 
 .tsc-button {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1847,7 +1847,7 @@ padding-bottom: 20px;
 }
 
 .tsc-error-message {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -1902,7 +1902,7 @@ padding-bottom: 20px;
 }
 
 .tsc-fieldset__legend {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -1946,7 +1946,7 @@ padding-bottom: 20px;
 }
 
 .tsc-fieldset__legend--xl {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -1978,7 +1978,7 @@ padding-bottom: 20px;
 }
 
 .tsc-fieldset__legend--l {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -2010,7 +2010,7 @@ padding-bottom: 20px;
 }
 
 .tsc-fieldset__legend--m {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -2042,7 +2042,7 @@ padding-bottom: 20px;
 }
 
 .tsc-fieldset__legend--s {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -2079,7 +2079,7 @@ padding-bottom: 20px;
 }
 
 .tsc-hint {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2126,7 +2126,7 @@ padding-bottom: 20px;
 }
 
 .tsc-label {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2166,7 +2166,7 @@ padding-bottom: 20px;
 }
 
 .tsc-label--xl {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -2198,7 +2198,7 @@ padding-bottom: 20px;
 }
 
 .tsc-label--l {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -2230,7 +2230,7 @@ padding-bottom: 20px;
 }
 
 .tsc-label--m {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -2262,7 +2262,7 @@ padding-bottom: 20px;
 }
 
 .tsc-label--s {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -2297,7 +2297,7 @@ padding-bottom: 20px;
 }
 
 .tsc-checkboxes__item {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2506,7 +2506,7 @@ padding-bottom: 20px;
 }
 
 .tsc-textarea {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2595,7 +2595,7 @@ padding-bottom: 20px;
 }
 
 .tsc-summary-list {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2794,7 +2794,7 @@ padding-bottom: 20px;
 }
 
 .tsc-input {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -2912,7 +2912,7 @@ padding-bottom: 20px;
 }
 
 .tsc-details {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3065,7 +3065,7 @@ padding-bottom: 20px;
 }
 
 .tsc-error-summary__title {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -3104,7 +3104,7 @@ padding-bottom: 20px;
 }
 
 .tsc-error-summary__body {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3167,7 +3167,7 @@ padding-bottom: 20px;
 }
 
 .tsc-file-upload {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3225,7 +3225,7 @@ padding-bottom: 20px;
 }
 
 .tsc-footer {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3465,7 +3465,7 @@ padding-bottom: 20px;
 }
 
 .tsc-header {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3477,7 +3477,7 @@ padding-bottom: 20px;
   background: #5FBFF9;
 }
 .tsc-header-covid {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3488,7 +3488,7 @@ padding-bottom: 20px;
   background: #5FBFF9;
 }
 .tsc-header-home {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3563,7 +3563,7 @@ padding-bottom: 20px;
 }
 
 .tsc-header__product-name {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3616,7 +3616,7 @@ padding-bottom: 20px;
 }
 
 .tsc-header__link--homepage {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -3648,7 +3648,7 @@ padding-bottom: 20px;
 .tsc-header__link--service-name {
   display: inline-block;
   margin-bottom: 10px;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -3712,7 +3712,7 @@ padding-bottom: 20px;
 }
 
 .tsc-header__menu-button {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3860,7 +3860,7 @@ padding-bottom: 20px;
 }
 
 .tsc-header__navigation-item a {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -3921,7 +3921,7 @@ padding-bottom: 20px;
 }
 
 .tsc-inset-text {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -3985,7 +3985,7 @@ padding-bottom: 20px;
 }
 
 .tsc-panel {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4034,7 +4034,7 @@ padding-bottom: 20px;
 .tsc-panel__title {
   margin-top: 0;
   margin-bottom: 30px;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -4069,7 +4069,7 @@ padding-bottom: 20px;
 }
 
 .tsc-panel__body {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4108,7 +4108,7 @@ padding-bottom: 20px;
   letter-spacing: 1px;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -4198,7 +4198,7 @@ padding-bottom: 20px;
 }
 
 .tsc-phase-banner__content {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4264,7 +4264,7 @@ padding-bottom: 20px;
 }
 
 .tsc-tabs__title {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4316,7 +4316,7 @@ padding-bottom: 20px;
 }
 
 .tsc-tabs__list-item {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4491,7 +4491,7 @@ padding-bottom: 20px;
 }
 
 .tsc-radios__item {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4622,7 +4622,7 @@ padding-bottom: 20px;
 }
 
 .tsc-radios__divider {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4759,7 +4759,7 @@ padding-bottom: 20px;
 }
 
 .tsc-select {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4826,7 +4826,7 @@ padding-bottom: 20px;
   -webkit-clip-path: inset(50%) !important;
   clip-path: inset(50%) !important;
   white-space: nowrap !important;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
@@ -4895,7 +4895,7 @@ padding-bottom: 20px;
 }
 
 .tsc-table {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -4955,7 +4955,7 @@ padding-bottom: 20px;
 }
 
 .tsc-table__cell--numeric {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-feature-settings: "tnum" 1;
@@ -5020,7 +5020,7 @@ padding-bottom: 20px;
 }
 
 .tsc-warning-text__icon {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -5057,7 +5057,7 @@ padding-bottom: 20px;
 }
 
 .tsc-warning-text__text {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -6414,7 +6414,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav-header__part-of {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -6447,7 +6447,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav-header__title {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -6517,7 +6517,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav__button--title {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 19px;
@@ -6543,7 +6543,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav--large .app-step-nav__button--title {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 19px;
@@ -6565,7 +6565,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav__button--controls {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
@@ -6591,7 +6591,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav--large .app-step-nav__button--controls {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
@@ -6709,7 +6709,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav__circle--number {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
@@ -6732,7 +6732,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav--large .app-step-nav__circle--number {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
@@ -6760,7 +6760,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav__circle--logic {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
@@ -6782,7 +6782,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav--large .app-step-nav__circle--logic {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
@@ -6869,7 +6869,7 @@ padding-bottom: 20px;
 
 .app-step-nav__title {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 19px;
@@ -6898,7 +6898,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav--large .app-step-nav__title {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 19px;
@@ -6920,7 +6920,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav__toggle-link {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
@@ -6945,7 +6945,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav--large .app-step-nav__toggle-link {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px;
@@ -6968,7 +6968,7 @@ padding-bottom: 20px;
 
 .app-step-nav__panel {
   color: #0b0c0c;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
@@ -6996,7 +6996,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav--large .app-step-nav__panel {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 16px;
@@ -7075,7 +7075,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav__link {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -7189,7 +7189,7 @@ padding-bottom: 20px;
 .app-step-nav-related__heading {
   margin-top: 15px;
   margin-bottom: 10px;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -7220,7 +7220,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav-related__links {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -7257,7 +7257,7 @@ padding-bottom: 20px;
 }
 
 .app-step-nav-related--singular .app-step-nav-related__heading {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -7338,7 +7338,7 @@ padding-bottom: 20px;
 
 .app-task-list__section {
   display: table;
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 700;
@@ -7380,7 +7380,7 @@ padding-bottom: 20px;
 }
 
 .app-task-list__items {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -7477,7 +7477,7 @@ padding-bottom: 20px;
 }
 
 .app-cookie-banner {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -7568,7 +7568,7 @@ padding-bottom: 20px;
 }
 
 .app-publication-list {
-  font-family: "Noto Sans", Arial, sans-serif;
+  font-family: "Public Sans", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-weight: 400;
@@ -7646,7 +7646,7 @@ font-size: 14px;
 }
 
 .banner-destructive-without-action, .banner-destructive-with-action, .banner-warning-with-action, .banner-warning-without-action, .banner-success-with-action, .banner-success-without-action, .banner-information-with-action, .banner-information-without-action, .banner-temporary-message-without-action {
-    font-family: "Noto Sans", Arial, sans-serif;
+    font-family: "Public Sans", Arial, sans-serif;
     font-weight: 400;
     text-transform: none;
     font-size: 18px;
@@ -7664,7 +7664,7 @@ font-size: 14px;
 }
 
 .banner-message {
-    font-family: "Noto Sans", Arial, sans-serif;
+    font-family: "Public Sans", Arial, sans-serif;
     font-weight: 400;
     text-transform: none;
     font-size: 18px;
